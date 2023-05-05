@@ -1,3 +1,3 @@
 # PBLTool
 Tool for working with Powerbuilder PBL Files
-# Test123
+# CMD Tool um Objekte aus einer PBL zu exportieren und zu importieren
